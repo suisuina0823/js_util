@@ -19,7 +19,7 @@ this.ps = this.ps || {};
         var num_a = -1;
         var num_b = 1;
 
-        //指定があれば昇順(ASC)
+        //指定があれば昇順　(ASC)
         if(order === 'asc'){
             num_a = 1;
             num_b = -1;
