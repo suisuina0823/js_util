@@ -12,6 +12,7 @@ this.ps = this.ps || {};
 
     /**
      * px付の数値をpxなしにして返します
+     * 
      * @param _numpx
      */
     ArrayUtil.object_array_sort = function (data,key,order,fn) {
